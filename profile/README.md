@@ -1,4 +1,4 @@
-# RyneVex - Membangun Masa Depan Digital.
+# RyneVex
 
 [![Website](https://img.shields.io/badge/Website-Kunjungi-brightgreen)](coomngsoon)
 
